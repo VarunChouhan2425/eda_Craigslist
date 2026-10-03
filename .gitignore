@@ -18,4 +18,4 @@ env/
 __pycache__/
 *.py[cod]
 
-data/vehicles.csv
+vehicles.csv
